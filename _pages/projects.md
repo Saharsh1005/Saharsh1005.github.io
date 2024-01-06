@@ -2,11 +2,11 @@
 layout: page
 title: projects
 permalink: /projects/
-description: WIP 
+description: Explore new technologies. More coming soon . . . 
 nav: true
 nav_order: 3
 display_categories: [playground]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->

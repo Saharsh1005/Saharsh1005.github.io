@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HuBMAP + HPA - Functional Tissue Unit Segmentation (Kaggle)
+title: Hubmap + HPA (Kaggle)
 description: A vision transformer-based approach employs the Coat (Co-Scale Conv-Attentional Image Transformers) architecture for binary FTU (Functional Tissue Unit) segmentation. It incorporates an auxiliary loss for regularization.
 img: assets/img/project_preview/hubmap_banner.jpg
 importance: 2
