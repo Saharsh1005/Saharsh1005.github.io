@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Explore new technologies. More coming soon . . . 
+description: Some of the projects I have worked on.
 nav: true
 nav_order: 3
-display_categories: [playground]
+display_categories: [AI, Software]
 horizontal: true
 ---
 

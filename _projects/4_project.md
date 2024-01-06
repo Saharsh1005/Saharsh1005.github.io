@@ -4,7 +4,7 @@ title: Hubmap + HPA (Kaggle)
 description: A vision transformer-based approach employs the Coat (Co-Scale Conv-Attentional Image Transformers) architecture for binary FTU (Functional Tissue Unit) segmentation. It incorporates an auxiliary loss for regularization.
 img: assets/img/project_preview/hubmap_banner.jpg
 importance: 2
-category: playground
+category: AI
 ---
 
 <!-- Add banner here -->
