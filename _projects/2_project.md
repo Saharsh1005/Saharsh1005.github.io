@@ -1,10 +1,10 @@
 ---
 layout: page
-title: CrimeZoneUofI
+title: SafeZoneUofI
 description: Developed a dedicated platform for sharing and reporting of crime information and fostering a safer environment around UIUC campus area.
 img: assets/img/project_preview/safezoneUofI.png
-importance: 4
-category: personal
+importance: 3
+category: playground
 giscus_comments: false
 ---
 
