@@ -4,7 +4,7 @@ title: Visual odometry
 description: Evaluated classical stereo vision and deep learning-based methods for visual odometry on KITTI dataset, analyzing their efficacy in calculating depth maps and tracking motion.
 img: assets/img/project_preview/visual_odometry.png
 importance: 1
-category: vision
+category: personal
 related_publications: 
 ---
 
