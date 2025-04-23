@@ -3,17 +3,16 @@ layout: page
 title: SafeZoneUofI
 description: Developed a dedicated platform for sharing and reporting of crime information and fostering a safer environment around UIUC campus area.
 img: assets/img/project_preview/safezoneUofI.png
-importance: 1
+importance: 3
 category: Software
 giscus_comments: false
 ---
 
-# UIUC Crime Web Application 
+# UIUC Crime Web Application
 Website [Link](https://cs411-puredata.uc.r.appspot.com/)
 
 ### Problem Statement & Motivation
 
-<<<<<<< HEAD
 To enhance safety and convenience in Urbana-Champaign, there is a need for an improved way to share information about security incidents around the University of Illinois at Urbana-Champaign (UIUC). The current Daily Crime Log and Daily Crime Log Map provide valuable data but lack user-friendly features. Our proposed solution is a comprehensive crime reporting web application designed to transform the accessibility and presentation of critical information, empowering the community to make informed decisions for personal safety. [Figma Link](https://www.figma.com/file/Tz0FeMd87schOVflPeQ2Rc/SafeZone-UofI?type=design&node-id=1669%3A162202&mode=design&t=1w1nHRWBZ9Fed3aL-1)
 
 
@@ -35,7 +34,7 @@ To enhance safety and convenience in Urbana-Champaign, there is a need for an im
 - **Interactive Mapping:** An interactive map interface allows users to visualize crime incidents for location-based decision-making.
 
 - **User Authentication:** Users and Admins can signup and login to make the most of all our functionalities.
-  
+
 ### How our app is different
 
 * Unique Focus: Our app distinguishes itself by specifically catering to the Urbana-Champaign community, offering more relevant and targeted information compared to general platforms like Crimemapping.com or Citizens.
@@ -54,7 +53,6 @@ To enhance safety and convenience in Urbana-Champaign, there is a need for an im
 - Saharsh Sandeep Barve: [ssbarve2]
 - Shubham Jayraj Thakar: [sthakar3]
 - Sakshil Verma: [sakshil2]
-=======
     ---
     layout: page
     title: project
@@ -120,4 +118,3 @@ Here's the code for the last row of images above:
 ```
 
 {% endraw %}
->>>>>>> 0af4aecf50426fc1e35696ca4c47940737175b26
