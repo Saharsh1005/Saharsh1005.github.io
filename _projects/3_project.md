@@ -38,6 +38,3 @@ CityInfo is an Android application developed in Java that offers users informati
 ### Development
 - Android Studio
 - Java Development Kit (JDK)
-
-
-

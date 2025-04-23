@@ -5,7 +5,7 @@ description: Evaluated classical stereo vision and deep learning-based methods f
 img: assets/img/project_preview/visual_odometry.png
 importance: 1
 category: AI
-related_publications: 
+related_publications:
 ---
 
 # Stereo Vision and Visual Odometry Project with KITTI Dataset
@@ -54,7 +54,7 @@ subsequently understand visual odometry, following two approaches classical ster
 
 - **Harris Nisar:**
     - Explore and run the deep learning model on the stereo dataset.
-    
+
 - **Saharsh Sandeep Barve:**
     - Explore and run the deep learning model on the odometry dataset.
 
@@ -83,7 +83,7 @@ Both team members will collaborate on other aspects of the project, including un
 The project requires substantial computational resources, and the team has access to suitable hardware, including an RTX-3070 GPU, for both model training and inference.
 
 ## Project Results
-### Project result video: 
+### Project result video:
 [Link to Project Results Video](https://youtu.be/cJ4hgQHH6Ac)
 
 ### Raw Images
@@ -137,4 +137,3 @@ We’d also like to acknowledge the work at [this](https://github.com/FoamoftheS
 [5] G. Bradski, “The OpenCV library,” Dr Dobbs J. Softw. Tools, 2000.
 
 [6] D. G. Lowe, “Distinctive Image Features from Scale-Invariant Keypoints,” Int. J. Comput. Vis., vol. 60, no. 2, pp. 91–110, Nov. 2004, doi: 10.1023/B:VISI.0000029664.99615.94.
-

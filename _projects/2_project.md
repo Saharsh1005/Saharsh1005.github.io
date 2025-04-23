@@ -8,7 +8,7 @@ category: Software
 giscus_comments: false
 ---
 
-# UIUC Crime Web Application 
+# UIUC Crime Web Application
 Website [Link](https://cs411-puredata.uc.r.appspot.com/)
 
 ### Problem Statement & Motivation
@@ -34,7 +34,7 @@ To enhance safety and convenience in Urbana-Champaign, there is a need for an im
 - **Interactive Mapping:** An interactive map interface allows users to visualize crime incidents for location-based decision-making.
 
 - **User Authentication:** Users and Admins can signup and login to make the most of all our functionalities.
-  
+
 ### How our app is different
 
 * Unique Focus: Our app distinguishes itself by specifically catering to the Urbana-Champaign community, offering more relevant and targeted information compared to general platforms like Crimemapping.com or Citizens.
