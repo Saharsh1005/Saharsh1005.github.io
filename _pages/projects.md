@@ -2,11 +2,11 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Some of the projects I have worked on.
+description: 
 nav: true
 nav_order: 3
 display_categories: [AI, Software]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
