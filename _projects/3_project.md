@@ -3,7 +3,7 @@ layout: page
 title: CityInfo Android App
 description: An android application providing functionalities including city mapping, real-time weather updates,
 and customizable UI elements, guaranteeing a holistic user experience.
-img: assets/img/project_preview/cityinfo_banner.png
+img: 
 importance: 4
 category: Software
 giscus_comments: false

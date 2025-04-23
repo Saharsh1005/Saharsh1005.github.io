@@ -5,13 +5,9 @@ description: Evaluated classical stereo vision and deep learning-based methods f
 img: assets/img/project_preview/visual_odometry.png
 importance: 1
 category: AI
-related_publications:
 ---
 
-# Stereo Vision and Visual Odometry Project with KITTI Dataset
-
-[![Version 1.0](https://img.shields.io/badge/Version-1.0-brightgreen)](https://github.com/your_username/your_project/releases/tag/v1.0)
-[![Created on December 2024](https://img.shields.io/badge/Created%20on-December%202024-blue)](https://github.com/your_username/your_project/commit/your_commit_id)
+# Stereo Vision and Visual Odometry Project with KITTI Dataset)
 
 ## Group Members
 - **Harris Nisar**: GitHub - [nisar2](https://github.com/nisar2)
