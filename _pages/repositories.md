@@ -1,13 +1,13 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: repositories
+permalink: /repositories/
 description: My contributions.
 nav: true 
-nav_order: 2
+nav_order: 3
 ---
 
-<!-- {% if site.data.repositories.github_users %}
+{% if site.data.repositories.github_users %}
 
 ## GitHub users
 
@@ -27,13 +27,13 @@ nav_order: 2
   {% endif %}
   <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% include repository/repo_trophies.liquid username=user %}
-  </div> -->
+  </div>
 
 ---
 
-<!-- {% endfor %}
+{% endfor %}
 {% endif %}
-{% endif %} -->
+{% endif %}
 
 {% if site.data.repositories.github_repos %}
 
