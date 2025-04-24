@@ -3,13 +3,13 @@ layout: page
 title: projects
 permalink: /projects/
 description:
-nav: true
+nav: false # swapped for repositories
 nav_order: 2
 display_categories: [AI, Software]
 horizontal: true
 ---
 
-<!-- pages/projects.md -->
+pages/projects.md
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
