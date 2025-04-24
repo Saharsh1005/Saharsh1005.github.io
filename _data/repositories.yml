@@ -1,14 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Saharsh1005
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - bespokelabsai/curator
+  - Saharsh1005/autonomous-prompting
+  - Saharsh1005/visual_odometry
+  - Saharsh1005/breakingBao
+  - Saharsh1005/3D_vision_fundamentals
+  - Saharsh1005/hubmap-kaggle-competition

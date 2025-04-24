@@ -1,12 +1,8 @@
 ---
 layout: page
-permalink: /cv/
+permalink: /assets/pdf/SaharshBarve_Resume.pdf
 title: CV
 description: 
-nav: true
+nav: false # Deprecated, instead modified it @ header.liquid
 nav_order: 4
 ---
-
-<object data="/assets/pdf/Saharsh_ML_resume.pdf" type="application/pdf" width="100%" height="800px">
-  <p>Your browser does not support PDFs. <a href="/assets/pdf/Saharsh_ML_resume.pdf">Download the PDF</a>.</p>
-</object>
