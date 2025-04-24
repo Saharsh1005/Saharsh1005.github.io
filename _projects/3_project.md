@@ -1,40 +1,55 @@
 ---
 layout: page
-title: CityInfo Android App
-description: An android application providing functionalities including city mapping, real-time weather updates,
-and customizable UI elements, guaranteeing a holistic user experience.
+title: SafeZoneUofI
+description: Developed a dedicated platform for sharing and reporting of crime information and fostering a safer environment around UIUC campus area.
 img: 
-importance: 4
+importance: 3
 category: Software
 giscus_comments: false
 ---
 
-# CityInfo Android App
+# UIUC Crime Web Application
+Website [Link](https://cs411-puredata.uc.r.appspot.com/)
 
-CityInfo is an Android application developed in Java that offers users information about cities, including weather details and interactive maps. The app focuses on providing a seamless user experience with features such as user authentication, theme customization, city list updates, viewing city maps, and accessing weather information.
+### Problem Statement & Motivation
 
-## Features
+To enhance safety and convenience in Urbana-Champaign, there is a need for an improved way to share information about security incidents around the University of Illinois at Urbana-Champaign (UIUC). The current Daily Crime Log and Daily Crime Log Map provide valuable data but lack user-friendly features. Our proposed solution is a comprehensive crime reporting web application designed to transform the accessibility and presentation of critical information, empowering the community to make informed decisions for personal safety. [Figma Link](https://www.figma.com/file/Tz0FeMd87schOVflPeQ2Rc/SafeZone-UofI?type=design&node-id=1669%3A162202&mode=design&t=1w1nHRWBZ9Fed3aL-1)
 
-### 1. User Authentication
-- **Login**: Users can securely log in with their unique username and password.
-- **Signup**: New users can easily create accounts, providing the necessary information for a personalized experience.
 
-### 2. Theme Customization
-- **Dark/Light Mode**: Users can customize the app's theme with the choice between dark and light modes for a comfortable viewing experience.
+### User Problems being solved
 
-### 3. City Information
-- **City List Updates**: Dynamically update the list of cities, ensuring users have access to the latest information.
-- **View City Map**: Explore cities interactively through an embedded map, offering a visual representation of the city's layout.
+- **Improve data accessibility:** The current tabular format of the Daily Crime Log is ineffective. Our application provides a more user-responsive framework for better data accessibility, ensuring informed decision-making for personal safety.
 
-### 4. Weather Information
-- **View City Weather Info**: Access real-time weather information for a selected city, including temperature, humidity, and other relevant details.
+- **Community Safety:** By enhancing access to and understanding of campus crime data, the application contributes to the safety and security of the entire Urbana-Champaign community.
 
-## CityInfo App
+### Basic interactions our app supports in service of our goal
 
-### App Activity Pages
-![Activity 1](/assets/img/project_preview/cityinfo_1.png)
-![Activity 2](/assets/img/project_preview/cityinfo_2.png)
+- **Data Retrieval:** Users can access crime data, including incident reports, locations, and relevant details through the application.
 
-### Development
-- Android Studio
-- Java Development Kit (JDK)
+- **Reporting Tips:**  A distinctive feature involves enabling users to report crime tips directly to the police through a submission form, providing an easy and efficient online platform for reporting tips that can be investigated further.
+
+
+- **Historical Data Visualization:** The app displays historical crime data through charts and visualizations, empowering users with insights into trends and patterns over time.
+
+- **Interactive Mapping:** An interactive map interface allows users to visualize crime incidents for location-based decision-making.
+
+- **User Authentication:** Users and Admins can signup and login to make the most of all our functionalities.
+
+### How our app is different
+
+* Unique Focus: Our app distinguishes itself by specifically catering to the Urbana-Champaign community, offering more relevant and targeted information compared to general platforms like Crimemapping.com or Citizens.
+* Data Accuracy and Reliability: Unlike apps allowing user-generated content, such as Citizens, we exclusively rely on official sources for data, enhancing the app's overall reliability.
+* Holistic Information Delivery: In contrast to UIUC-specific websites like the Daily Crime Log or Police Blotter, our app provides more comprehensive insights through data visualization rather than presenting raw data alone.
+* Reporting Tips: A distinctive feature involves enabling users to report crime tips directly to the police through a submission form, providing an easy and efficient online platform for reporting tips that can be investigated further.
+
+## Citation and References
+1. [Daily Crime Log](https://police.illinois.edu/info/daily-crime-log/)
+2. [Daily Crime Log Map](https://police.illinois.edu/info/map/)
+
+## Team Information
+
+- Mukta Jaiswal: [muktaj2]
+- Palveet Kaur Saluja: [psaluja2]
+- Saharsh Sandeep Barve: [ssbarve2]
+- Shubham Jayraj Thakar: [sthakar3]
+- Sakshil Verma: [sakshil2]
